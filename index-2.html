@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>test</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!--Montserrat font-->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />  
+     <link rel="stylesheet" href="bg.css" /> 
+    
+    <script src="https://unpkg.com/feather-icons"></script>
+    <script src="cv.js"></script>
+</head>
+
+<body>
+    <section>    
+
+        <!-- MOBILE NAVIGATION -->
+        <div class="w3-container w3-padding-16 w3-border-bottom w3-hide-medium w3-hide-large">
+        </div>
+        <!-- SOCIAL SECTION -->
+        <section class="image-section w3-quarter w3-fixed w3-padding-small" style="background-color: yellow;">
+          x
+        </section>
+        <!--CV CONTENT SECTION-->
+
+        <section class="w3-threequarter w3-padding-small w3-right" style="background-color: red;">
+   <div id="listsWide" class="lists__listWide">
+                    <ul>
+                        <li><a href="" class="insite">
+                                <span class="lists__list__cat"><span>aaa</span></span>
+                                <span style="background-color: yellow;" class="lists__list__thumb">
+                                    <img src="./NEWS _ 魔法使いの約束 公式サイト_files/thumb_frame_l.png" width="475" height="268" alt="">
+                                </span>
+                                <span class="lists__list__details" style="height: 64px;"><span class="lists__list__details__date">2222222222222</span><span class="lists__list__details__title">測試
+                                    </span></span></a></li>
+                        <li><a href="" class="insite">
+                                <span class="lists__list__cat"><span>INFO</span></span><span style="background-color:red;" class="lists__list__thumb"><img src="./NEWS _ 魔法使いの約束 公式サイト_files/thumb_frame_l.png" width="475" height="268" alt=""></span><span class="lists__list__details" style="height: 64px;"><span class="lists__list__details__date">333333333</span><span class="lists__list__details__title">rwsgsdfgsfdgsd</span></span></a></li>
+                    </ul>
+                </div>
+            <!--DESKTOP NAVIGATION-->
+            <div id="cv" class="content-container w3-margin-top-2 yu-nbg" >
+                
+            </div>
+
+            <!-- \(==========  [ BACKGROUND ]  ==========)/-->
+     <!--  <div class="bg"> -->
+ <!--              <div class="w3-threequarter w3-padding-small w3-right yu-bg">
+        <div class="bg__bar1">
+          <p><span></span><span></span></p>
+        </div>
+        <p class="bg__movie"><img src="bg_img/bg_movie.png" width="1600" height="1600" alt=""></p>
+        <div class="bg__bar2">
+          <p><span></span><span></span></p>
+        </div>
+        <p class="bg__news"><img src="bg_img/bg_news.png" width="2023" height="2022" alt=""></p>
+        <div class="bg__bar3">
+          <p><span></span><span></span></p>
+        </div>
+
+      </div> -->
+
+
+ 
+            <!--END OF CV SECTION-->
+        </section>
+
+    </section>
+    <script>
+    // Function to toggle mobile navigation
+    function toggleNavigation() {
+        let nav = document.getElementById("mobile-nav");
+        if (nav.classList.contains('w3-show')) {
+            nav.classList.remove('w3-show');
+        } else {
+            nav.classList.add('w3-show');
+        }
+    }
+
+    // Script to load feather icons
+    feather.replace()
+
+    /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+    var dropdown = document.getElementsByClassName("dropdown-btn");
+    var i;
+
+    for (i = 0; i < dropdown.length; i++) {
+        dropdown[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var dropdownContent = this.nextElementSibling;
+            if (dropdownContent.style.display === "block") {
+                dropdownContent.style.display = "none";
+            } else {
+                dropdownContent.style.display = "block";
+            }
+        });
+    }
+    </script>
+</body>
+
+</html>

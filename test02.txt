@@ -1,0 +1,44 @@
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">自我介紹</h1><br>
+      <h5 class="w3-center">Huang,yu-chen</h5>
+      <p class="w3-large">目前為網頁前端工程師，並參與資訊架構規劃和互動流程設計。曾製作2020年台灣搖滾音樂主題展-互動網頁，2021年中正紀念堂「她的力量」特展-360環景導覽系統網站...等專案。
+從2020年開始參與國立科技大學、國立臺中科技大學、國立台灣藝術大學等知名國內大學的HCI/UX/數位學習/數位藝術課程，擔任多次業師與Design thinking coach，時數超過100+。 <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
+      <p class="w3-large w3-text-grey w3-hide-medium">畢業於交通大學應用藝術研究所，參與多項人機互動研究，以設計思考規劃使用者體驗架構，領域包含產品裝置, App, chatbot, VR等平台，論文成果曾收錄至TAICHI. CGW等人研討會；期間同時參與UX產學合作課程，藉由質性深度訪談與數據分析提出明確產品痛點與設計原型，幫助該新創公司建構後續發展基礎。
+</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  <!-- Menu Section -->
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center">Our Menu</h1><br>
+      <h4>Bread Basket</h4>
+      <p class="w3-text-grey">Assortment of fresh baked fruit breads and muffins 5.50</p><br>
+    
+      <h4>力積電 65.20 -0.40 -0.61%  2</h4>
+      <p class="w3-text-grey">Natural cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
+    
+      <h4>Belgian Waffle</h4>
+      <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
+    
+      <h4>Scrambled eggs</h4>
+      <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
+    
+      <h4>Blueberry Pancakes</h4>
+      <p class="w3-text-grey">With syrup, butter and lots of berries 8.50</p>    
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+  </div>
+
+  <hr>

@@ -1,0 +1,68 @@
+
+//--------
+1. get data from load("a1.txt");
+
+
+$("#a1").load("getData.txt");
+
+//--------
+2. get data from form submit , $.post() 
+
+<form id="frm" action="getData.php", target="self", method="get"></form>
+
+let c1 = $.post("getData.php");
+
+
+
+//-----------
+3. get data from array, json
+
+let x1 = [1, 2, 3];
+let x2 = [[11, 12], [21, 22, 23], [31, 31]];
+
+x1[0] , x1[1]
+x2[0][0], x2[0][1]
+x2[1][0], x2[1][1], x2[1][2]
+
+let j1 = {
+  "title":"apple",
+  "pid":"1234",
+  "data": {
+    "a1":"apple",
+    "a2":"apple"
+  }
+};
+
+j1.title = "";
+j1.pid = "";
+j1.data.a1 = "";
+
+//--------------------
+4. get data from URL
+
+URL   
+
+index.html 
+let mode  = 2;
+
+location.assign("main.html?mode="+mode);
+http://www.moc2718.com/main.html?mode=3
+
+<from action="index.php">
+  <input id="mid" name="mid" text value="123"></input>
+  <input id="t1" name="t1" text value="456"></input>
+</form>
+
+var queryString = window.location.search;
+let params = new URLSearchParams(queryString);
+mode = parseInt(params.get("mode")); // is the number 123
+mode1 = parseInt(params.get("t1")); // is the number 456
+
+
+
+
+
+
+
+
+

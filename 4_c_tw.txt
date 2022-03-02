@@ -1,0 +1,59 @@
+ <!-- name Section -->
+  <div class="w3-row w3-padding-12" id="name">
+    <div class="w3-col m12 w3-padding-large">
+      <h1 class="w3-center">「逗陣遊臺灣Amazing Taiwan－3D Trick Art Exhibition Ⅱ」</h1><br>
+    </div>
+</div>
+ <!-- intro Section -->
+  <div class="w3-row w3-padding-large" id="menu">
+    <div class="w3-col l12 w3-padding-12 ">
+      <h4>專案簡介</h4>
+      <p class="w3-text-grey">1. 360環景網站製作，順暢的於電腦、筆電、手機與平板電腦上觀看。<br>
+2. 展場內展品可透過「資訊點按鈕」看到更近一步資訊，於右側出現可上下拉動影片、照片、文字等豐富內容。<br>
+3. 小地圖 UI 導覽：可開啟小地圖，可點選區域並後將畫面移動至該處。<br>
+4. 面對疫情，提供真實現場體驗，打破疏離感，並提供瀏覽人次計數功能。</p><br>
+
+自2020年首創國立場館先例，策辦以臺灣為主題的大型3D藝術展，深受國內民眾喜愛，更吸引極多外籍人士參觀拍照、上傳分享予家鄉親朋好友，讓來自各國旅客留下美好精彩的臺灣視覺記憶，開展1個月即吸引8萬人次入堂體驗及拍照；2021年歲末，再度推出結合電音三太子與北中南東具代表性景點的3D藝術展，包括宜蘭龜山島、臺東熱氣球嘉年華、臺南七股鹽山、南投清境農場、臺北中正紀念堂及金門風獅爺，邀請大家逗陣遊臺灣。
+
+
+「逗陣遊臺灣Amazing Taiwan－3D Trick Art Exhibition Ⅱ」
+展覽期間：110年12月29日至111年8月14日09:00-18:00 （免費參觀，除夕、大年初一及二二八休館）
+展覽地點：中正紀念堂中央通廊（臺北市中正區中山南路21號）
+    
+      <h4>自己負責的部分</h4>
+      <p class="w3-text-grey">1. 介面前端程式撰寫<br>2. 資料庫建置：制定適當及一致性的命名格式 <br>3. 視覺端到程式端的所需資料轉換</p><br>
+    
+      <h4>克服的挑戰</h4>
+      <p class="w3-text-grey">短時間內完成：ＳＯＰ的建置
+</p><br>
+    
+      <h4>連結</h4>
+      <p class="w3-text-grey">https://vr360.cksmh.gov.tw/discovertomorrow/</p><br>https://www.moc.gov.tw/information_250_142199.html<br>https://tw.stock.yahoo.com/news/%E9%9B%BB%E9%9F%B3%E4%B8%89%E5%A4%AA%E5%AD%90%E4%B9%9F%E7%98%8B%E7%8B%82-%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82%E9%82%80%E6%82%A8%E8%B7%A8%E5%B9%B4%E7%8E%A93d-%E9%80%97%E9%99%A3%E9%81%8A%E8%87%BA%E7%81%A3-014400005.html<br>https://www.cdns.com.tw/articles/513375<br>
+     
+    </div>
+<!--    手機版的圖 
+    <div class="w3-col l6 w3-padding-large">
+      <img src="img/4_c_dt/c_dt06.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+  </div>
+ -->
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-large" id="about">
+    <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
+     <img src="img/4_c_dt/c_dt01.png" class="w3-round w3-image" > 
+   <br> <br>
+     <img src="img/4_c_dt/c_dt02.png" class="w3-round w3-image " >
+   <br> <br>
+     <img src="img/4_c_dt/c_dt03.png" class="w3-round w3-image " >
+        <br> <br>
+     <img src="img/4_c_dt/c_dt04.png" class="w3-round w3-image " >
+     <p>從旁邊可以閱讀圖片資訊</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  
+
+  <hr>

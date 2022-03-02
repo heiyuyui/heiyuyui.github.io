@@ -1,0 +1,42 @@
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center">333333頁面</h1><br>
+      <h5 class="w3-center">Tradition since 1889</h5>
+      <p class="w3-large">晶圓代工大廠力積電（6670）25日召開法說會，董事長黃崇仁指出，去年整體營運達成期望，今年到目前看來成長10%沒什麼大問題，全年營收目標力求超過800億元，全年獲利也爭取超過200億元。並樂觀看車用IC應用成長。 <span class="w3-tag w3-light-grey">seasonal</span> ingredients.</p>
+      <p class="w3-large w3-text-grey w3-hide-medium">黃崇仁表示，雖然目前產能吃緊情況沒有像之前那麼緊張，但仍然仍屬於吃緊，力積電目前訂單情況還是很強，邏輯與記憶體產品產能70-80%都已被客戶簽下長約預訂，剩下二成則保留生產彈性。由於漲價長約從今年第一季開始，第二季末到第三季就可看到平均銷售單價(ASP)增加，預估今年還是有機會漲一些約5-10%左右，整體「今年展望還不錯」。目前特殊應用驅動晶片與電源管理IC仍缺，手機與CMOS相對舒緩，但客戶端還是願意先確保產能。</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  <!-- Menu Section -->
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center">Our Menu</h1><br>
+      <h4>Bread Basket</h4>
+      <p class="w3-text-grey">Assortment of fresh baked fruit breads and muffins 5.50</p><br>
+    
+      <h4>力積電 65.20 -0.40 -0.61%  2</h4>
+      <p class="w3-text-grey">Natural cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
+    
+      <h4>Belgian Waffle</h4>
+      <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
+    
+      <h4>Scrambled eggs</h4>
+      <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
+    
+      <h4>Blueberry Pancakes</h4>
+      <p class="w3-text-grey">With syrup, butter and lots of berries 8.50</p>    
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="tablesetting2.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+  </div>
+
+  <hr>
