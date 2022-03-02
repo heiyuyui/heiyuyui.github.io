@@ -1,0 +1,50 @@
+<!--HOME SECTION-->
+<div id="home" class="home w3-container ">
+    <h1 class="w3-center">你好，我是黃于真</h1><br>
+    <h5 class="w3-center">UX Research / UI/UX Design / Rapid Prototyping / Interaction Design</h5>
+    <p class="w3-large">碩士期間用design thinking規劃架構並建立function flow, wireframe, prototype，
+        開發領域包含產品裝置, app, chatbot, VR等不同平台，
+        創造與不同背景同學（資工、心理等）跨領域的零誤差溝通合作模式，
+        並透過基礎Front-end能力與快速自學不同領域專業執行低成本原型測試，熱愛在工作中成長與團隊合作。 </p>
+    <!-- 履歷 Section -->
+    <div>
+        <div class="">
+            <h1 class="w3-center">工作經歷</h1><br>
+            <h3>UI / UX Designer</h3>
+            <h5 class="w3-text-grey">
+                多盒心科技有限公司 <br>
+                2020年9月 – 目前</h5>
+            <p>
+                ．網站前端視覺<br>
+                ．b2b系統架構規劃<br>
+                ．基礎前端互動程式
+            </p><br>
+            <h3>圓頂投影工作坊助教</h3>
+            <h5 class="w3-text-grey">
+                國立臺灣藝術大學科技藝術研究中心 兼職
+                2020年10月 - 2021年1月</h5>
+            <p>
+                台藝大與臺灣當代文化實驗場(C-LAB)的FUTURE VISION LAB合作工作坊合作<br>
+                ．協助18名學員於三個月內製作360度環景投影、
+                即時互動遊戲、Ambisonic立體環繞音場，並成果展示。<br>
+                ．參與圓頂投影的無接縫投影校正與多台投影機、相關裝置架設調整<br>
+                ．規劃舉辦成果發表之夜，並主持與協助現場學生展出，當日觀展人次約80人。</p><br>
+            <h3>資工所與HikingBook產學合作課程</h3>
+            <h5 class="w3-text-grey">
+                hikingBook Seasonal<br>
+                2020年2月 - 2020年6月</h5>
+            <p>
+                ．使用User Research, Usability Test, Heuristic Evaluation, Comparative Analysis等方法<br>
+                ．找出目標族群剛性需求，整理資訊層級並提出Mockup<br>
+                ．透過訪談數據找出使用者首要痛點，提出用戶需求與改善效益次序<br>
+                ．成果現在列為該企業主要設計方向</p><br>
+            <h3>UI/UX designer</h3>
+            <h5 class="w3-text-grey">家寧服務科技公司（快取寶）<br>
+                2016年7月 - 2016年8月
+            </h5>
+            <p>
+                ．參與電商網頁設計各分類icon, 並實際上線使用<br>
+                ．透過類競品分析了解目標族群購物習慣，設計網頁框架流程<br>
+                ．協助建立購買SOP，透過流程規則化統一購買體驗</p>
+        </div>
+    </div>

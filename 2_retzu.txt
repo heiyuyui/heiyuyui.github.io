@@ -1,0 +1,50 @@
+
+  <div class="w3-row w3-padding-large" id="">
+      <!-- name Section -->
+   <div>
+    <img src="img/2_retzu/2_retzu_01.jpg" class="w3-round w3-image"  style="width:100%;" >
+    <h1 class="w3-center">r2_retzu</h1><br>
+  
+    </div>
+ <!-- intro Section -->
+    <div >
+      <h4>簡介</h4>
+      <p class="w3-text-grey">透過歷史敘事搭配堂史照片、不同年代之服務員制服等實體物件展示，穿插結合臺灣婦女運動重要時點，映照出社會上這股持續前進的女性力量，希望在不久的將來，不同性別都能彼此尊重、平等對待，讓她/他的力量獲得充分發揮，寫下屬於自我的精采篇章！
+
+1. 360環景網站導覽
+2. 資安友善導覽
+3. 小地圖 ui導覽</p><br>
+       <h4>連結</h4>
+      <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
+
+      <h4>自己負責的部分</h4>
+      <p class="w3-text-grey">2_retzu2_retzu2_retzu2_retzu2_retzu2_retzu2_retzu</p><br>
+    
+      <h4>解決的困難</h4>
+      <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
+    
+    </div>
+    
+   
+  </div>
+
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-large" id="about">
+    <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
+     <img src="img/2_retzu/2_retzu_01.jpg" class="w3-round w3-image" >
+   <br> <br>
+     <img src="img/2_retzu/2_retzu_02.jpg" class="w3-round w3-image " >
+   <br> <br>
+     <img src="img/2_retzu/2_retzu_02.jpg" class="w3-round w3-image " >
+        <br> <br>
+     <img src="img/2_retzu/2_retzu_02.jpg" class="w3-round w3-image " >
+     <p>從旁邊可以閱讀圖片資訊</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  
+
+  <hr>

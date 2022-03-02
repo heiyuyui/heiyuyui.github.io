@@ -1,0 +1,58 @@
+
+  <div class="w3-row w3-padding-large" id="">
+      <!-- name Section -->
+   <div>
+    <img src="img/4_c_hp/c_hp01.png" class="w3-round w3-image"  style="width:100%;" >
+    <h1 class="w3-center">「她的力量」特展–從紀念堂制服女力談起</h1><br>
+  
+    </div>
+  <!-- intro Section -->
+  <div class="w3-row w3-padding-large" id="menu">
+    <div class="w3-col l12 w3-padding-12 ">
+      <h4>專案簡介</h4>
+      <p class="w3-text-grey">1. 360環景網站製作，順暢的於電腦、筆電、手機與平板電腦上觀看。<br>
+2. 展場內展品可透過「資訊點按鈕」看到更近一步資訊，於右側出現可上下拉動影片、照片、文字等豐富內容。<br>
+3. 小地圖 UI 導覽：可開啟小地圖，可點選區域並後將畫面移動至該處。<br>
+4. 面對疫情，提供真實現場體驗，打破疏離感，並提供瀏覽人次計數功能。</p><br>
+
+「『她的力量』特展–從紀念堂制服女力談起」展覽，以歷史敘事搭配堂史照片、不同年代之服務員制服等物件，透過線上科技再現展覽現場實景，帶領觀眾穿梭不同時空，透過4大時序展區，包括萌芽、茁壯、綻放、到展望未來，展示不同時代下紀念堂服務員的角色轉變，並結合臺灣婦女運動重要時點，將這群優雅與堅韌的職場女力，微觀呈現了臺灣從婦女運動、兩性平等、發展為性別平權的紀實與進程。
+
+
+    
+      <h4>自己負責的部分</h4>
+      <p class="w3-text-grey">1. 介面前端程式撰寫<br>2. 資料庫建置：制定適當及一致性的命名格式 <br>3. 視覺端到程式端的所需資料轉換</p><br>
+    
+      <h4>克服的挑戰</h4>
+      <p class="w3-text-grey">1. safari瀏覽器的載入bug排除：避免暫存記憶殘留<br>
+2. 優化載入時間：需預先載入重要資源<br>
+3. 資安弱點排除</p><br>
+    
+      <h4>連結</h4>
+      <p class="w3-text-grey">https://vr360.cksmh.gov.tw/powerofshe/</p><br>
+      https://www.cts.com.tw/market_news/546.html<br>
+      https://www.cna.com.tw/postwrite/detail/287724<br>
+      https://www.moc.gov.tw/information_250_123182.html<br>
+      <br>
+    
+     
+    </div>
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-large" id="about">
+    <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
+     <img src="img/4_c_hp/c_hp01.png" class="w3-round w3-image" >
+   <br> <br>
+     <img src="img/4_c_hp/c_hp02.png" class="w3-round w3-image " >
+   <br> <br>
+     <img src="img/4_c_hp/c_hp03.png" class="w3-round w3-image " >
+        <br> <br>
+     <img src="img/4_c_hp/c_hp04.png" class="w3-round w3-image " >
+     <p>從旁邊可以閱讀圖片資訊</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  
+
+  <hr>

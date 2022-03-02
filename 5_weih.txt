@@ -1,0 +1,49 @@
+<!-- name Section -->
+<div class="w3-row w3-padding-12" id="name">
+    <div class="w3-col m12 w3-padding-large">
+        <h1 class="w3-center">【《魏‧來時／魏‧來路》魏海敏的舞台故事 特展】金句互動</h1><br>
+    </div>
+</div>
+<!-- intro Section -->
+<div class="w3-row w3-padding-large" id="menu">
+    <div class="w3-col l12 w3-padding-12 ">
+        <h4>專案簡介</h4>
+        <p class="w3-text-grey">https://youtu.be/6ujkkv7T0aA<br>
+            【《魏‧來時／魏‧來路》魏海敏的舞台故事 特展】<br>
+            由台積電文教基金會主辦、魏海敏京劇藝術文教基金會策展的《魏·來時/ 魏·來路》魏海敏舞台的故事特展，以魏海敏老師戲曲生涯發展為出發點，以其六個舞台經典角色作為主軸，民眾可透過影音互動、文物陳列及戲服展示，一窺魏海敏舞台生命的軌跡，回顧並展望「魏海敏與臺灣京劇」。<br>
+            展覽中央區域為「千年舞台：從過去、現在到未來」，設有十五分鐘紀錄片，魏海敏將親自口述六個角色對其意義；<br>
+            同場設有投映，以老師對舞台與人生之感悟句子與觀眾作互動。呈現了千年舞台，均是臺上臺下人間朝夕的沉澱。<br>
+            《魏‧來時／魏‧來路》魏海敏的舞台故事<br>
+            日期：4/1（四）- 4/25（日）<br>
+            地點：新竹縣政府文化局美術館<br>
+            （新竹縣竹北市縣政九路146 號）<br>
+            <h4>自己負責的部分</h4>
+            <p class="w3-text-grey">1. 互動浮空投映的視覺端到程式端的所需資料轉換<br>
+                2. 金句字體設計 </p><br>
+            <h4>克服的挑戰</h4>
+            <p class="w3-text-grey">1. 雷達感測器的浮空投影區偵測，因為器材的設計比較趕，所以必須短時間內將互動區校正到位。
+                <h4>連結</h4>
+                <p class="w3-text-grey">https://udn.com/news/story/7324/5359777</p>
+    <!--  手機版的圖 -->
+    <div class="w3-col l6 w3-padding-large">
+        <img src="img/c_dt/c_dt01.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+</div>
+<!-- About Section -->
+<div class="w3-row w3-padding-large" id="about">
+    <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
+         <iframe id="vid1" src="https://www.youtube.com/embed/6ujkkv7T0aA?enablejsapi=1&version=3&playerapiid=ytplayer" style="width:100%;" frameborder="0" allowfullscreen></iframe>  <br> <br>
+        <iframe id="vid1" src="https://www.youtube.com/embed/cchMg79z7SI?enablejsapi=1&version=3&playerapiid=ytplayer" style="width:100%;" frameborder="0" allowfullscreen></iframe>  <br> <br>
+
+        <img src="img/5_weih/weih03.jpg" class="w3-round w3-image ">
+        <br> <br>
+        <img src="img/5_weih/weih04.jpg" class="w3-round w3-image ">
+        <br> <br>
+        <img src="img/5_weih/weih06.jpg" class="w3-round w3-image ">
+        <br> <br>
+        <img src="img/5_weih/weih05.jpg" class="w3-round w3-image ">
+        <p>從旁邊可以閱讀圖片資訊</p>
+    </div>
+</div>
+<hr>
+<hr>

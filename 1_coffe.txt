@@ -1,0 +1,52 @@
+
+  <div class="w3-row w3-padding-large" id="">
+      <!-- name Section -->
+   <div>
+    <img src="img/4_c_hp/c_hp01.png" class="w3-round w3-image"  style="width:100%;" >
+    <h1 class="w3-center">coffe</h1><br>
+  
+    </div>
+ <!-- intro Section -->
+<ul>
+        <li><strong>Responsible :</strong></li>
+    </ul>
+    <p>、<strong>prototype developing：提出實驗規劃並執行chatbot融合AR的互動設計和串連</strong></p>
+    <ul>
+        <li><strong>Role : UX engineer</strong></li>
+        <li><strong>Team :</strong></li>
+    </ul>
+    <p><strong>Yu-Chen Huang</strong></p>
+    <p>National Chiao Tong University</p>
+    <p><strong>Hung-Yu Chung</strong></p>
+    <p><strong>Ya-Fang Zheng</strong></p>
+    <p>National Tsing Hua University</p>
+    <ul>
+        <li><strong>Peroid : 2019/10-2020/01</strong></li>
+        <li>tool🔧：sparkAR. botbonnie</li>
+    </ul>
+    <h2>overview</h2>
+    <p>其實很多人都有咖啡因過量攝取的問體，尤其到了某些特定時間，都會因為習慣或是精神再來一杯咖啡，除了取代性的飲品之外，能不能用手機來點小活動來幫助這些人呢？ 我們設計Caffeine Terminator 透過chatbot與您互動， 我們有coffee AR體驗與眨眼遊戲，希望能夠幫助到大家！</p>
+    <p>我主要負責整體prototype的製作，從chatbot融合AR的互動設計和串連，並參與整體數據整理與後續分析。</p>
+    <p>video：</p>
+    <p><a href="https://youtu.be/29-mTFAqjbw" data-mce-href="https://youtu.be/29-mTFAqjbw">https://youtu.be/29-mTFAqjbw</a></p>
+    <p>FB： 透過聊天可以體驗coffee AR</p>
+    <p><a href="https://www.facebook.com/Caffeine-Terminator-106782177457995" data-mce-href="https://www.facebook.com/Caffeine-Terminator-106782177457995">https://www.facebook.com/Caffeine-Terminator-106782177457995</a></p>
+  <!-- About Section -->
+  <div class="w3-row w3-padding-large" id="about">
+    <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
+     <img src="img/4_c_hp/c_hp01.png" class="w3-round w3-image" >
+   <br> <br>
+     <img src="img/4_c_hp/c_hp02.png" class="w3-round w3-image " >
+   <br> <br>
+     <img src="img/4_c_hp/c_hp03.png" class="w3-round w3-image " >
+        <br> <br>
+     <img src="img/4_c_hp/c_hp04.png" class="w3-round w3-image " >
+     <p>從旁邊可以閱讀圖片資訊</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  
+
+  <hr>

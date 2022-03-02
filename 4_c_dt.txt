@@ -1,0 +1,61 @@
+ <!-- name Section -->
+  <div class="w3-row w3-padding-12" id="name">
+    <div class="w3-col m12 w3-padding-large">
+      <h1 class="w3-center">探索明天 運動中的女性</h1><br>
+    </div>
+</div>
+ <!-- intro Section -->
+  <div class="w3-row w3-padding-large" id="menu">
+    <div class="w3-col l12 w3-padding-12 ">
+      <h4>專案簡介</h4>
+      <p class="w3-text-grey">1. 360環景網站製作，順暢的於電腦、筆電、手機與平板電腦上觀看。<br>
+2. 展場內展品可透過「資訊點按鈕」看到更近一步資訊，於右側出現可上下拉動影片、照片、文字等豐富內容。<br>
+3. 小地圖 UI 導覽：可開啟小地圖，可點選區域並後將畫面移動至該處。<br>
+4. 面對疫情，提供真實現場體驗，打破疏離感，並提供瀏覽人次計數功能。</p><br>
+
+「探索明天－運動中的女性」展覽於奧運賽事期間之8/5正式拉開序幕，呈現臺灣女性參與運動歷程、奧運得獎紀錄以及體育事務中的性別與權力現況，歡迎蒞臨共享臺灣女性運動員在多元運動領域挑戰自我、力與美的感動!
+展覽資訊
+展名:探索明天－運動中的女性
+地點:中央通廊
+展期:2021/08/05~ 2021/12/12
+主辦單位: 國立中正紀念堂管理處、台灣國家婦女館、財團法人婦女權益促進發展基金會
+    
+      <h4>自己負責的部分</h4>
+      <p class="w3-text-grey">1. 介面前端程式撰寫<br>2. 資料庫建置：制定適當及一致性的命名格式 <br>3. 視覺端到程式端的所需資料轉換</p><br>
+    
+      <h4>克服的挑戰</h4>
+      <p class="w3-text-grey">1. 優化版本控制流程:因為資訊內容校對會反覆修改，要特別小心版本管理的部分，確認最後上架的是正確版本
+    
+      <h4>連結</h4>
+      <p class="w3-text-grey">https://vr360.cksmh.gov.tw/discovertomorrow/</p><br>https://www.moc.gov.tw/information_250_137039.html<br>
+    https://www.cksmh.gov.tw/information_259_137423.html<br>
+    https://ctee.com.tw/industrynews/consumption/499135.html<br>
+    https://www.moc.gov.tw/information_250_135503.html
+     
+    </div>
+<!--    手機版的圖 
+    <div class="w3-col l6 w3-padding-large">
+      <img src="img/4_c_dt/c_dt06.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+  </div>
+ -->
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-large" id="about">
+    <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
+     <img src="img/4_c_dt/c_dt01.png" class="w3-round w3-image" > 
+   <br> <br>
+     <img src="img/4_c_dt/c_dt02.png" class="w3-round w3-image " >
+   <br> <br>
+     <img src="img/4_c_dt/c_dt03.png" class="w3-round w3-image " >
+        <br> <br>
+     <img src="img/4_c_dt/c_dt04.png" class="w3-round w3-image " >
+     <p>從旁邊可以閱讀圖片資訊</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  
+
+  <hr>
