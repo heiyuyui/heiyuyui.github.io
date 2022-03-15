@@ -3,32 +3,21 @@
       <!-- name Section -->
    <div>
     <img src="img/3_senba/3_senba_01.png" class="w3-round w3-image"  style="width:100%;" >
-    <h1 class="w3-center">「3_senba3_senba</h1><br>
+    <h1 class="w3-center">3_senba3_senba</h1><br>
   
     </div>
  <!-- intro Section -->
   <div class="w3-row w3-padding-large" id="menu">
     <div class="w3-col l12 w3-padding-12 ">
       <h4>專案簡介</h4>
-      <p class="w3-text-grey">1. 360環景網站製作，順暢的於電腦、筆電、手機與平板電腦上觀看。<br>
-2. 展場內展品可透過「資訊點按鈕」看到更近一步資訊，於右側出現可上下拉動影片、照片、文字等豐富內容。<br>
-3. 小地圖 UI 導覽：可開啟小地圖，可點選區域並後將畫面移動至該處。<br>
-4. 面對疫情，提供真實現場體驗，打破疏離感，並提供瀏覽人次計數功能。</p><br>
+      <p class="w3-text-grey">
 
 
-
-「蔣中正總統與臺灣」特展
-
-展覽期間：即日起至111年2月7日上午9時至下午6時
-
-展覽地點：國立中正紀念堂三樓藝廊（臺北市中正區中山南路21號3F）
       <h4>自己負責的部分</h4>
-      <p class="w3-text-grey">1. 介面前端程式撰寫<br>2. 資料庫建置：制定適當及一致性的命名格式 <br>3. 視覺端到程式端的所需資料轉換</p><br>
+      <p class="w3-text-grey">
     
       <h4>克服的挑戰</h4>
-      <p class="w3-text-grey">豐富而龐大的資料量：執行前的思考就必須很謹慎，並兼顧多方的溝通。
-        預估分配時程：因此專案偏大須先排好優先順序，並抓好每個部分的工時並多方溝通。
-
+      <p class="w3-text-grey">
       </p><br>
     
       <h4>連結</h4>
@@ -45,13 +34,13 @@
   <!-- About Section -->
   <div class="w3-row w3-padding-large" id="about">
     <div class="w3-col m12 w3-padding-large w3-hide-small" style="width:100%">
-     <img src="img/4_c_hp/c_hp01.png" class="w3-round w3-image" >
+     <img src="img/3_senba/3_senba_01.png" class="w3-round w3-image" >
    <br> <br>
-     <img src="img/4_c_hp/c_hp02.png" class="w3-round w3-image " >
+     <img src="img/3_senba/3_senba_02.png" class="w3-round w3-image " >
    <br> <br>
-     <img src="img/4_c_hp/c_hp03.png" class="w3-round w3-image " >
+     <img src="img/3_senba/3_senba_03.jpg" class="w3-round w3-image " >
         <br> <br>
-     <img src="img/4_c_hp/c_hp04.png" class="w3-round w3-image " >
+     <img src="img/3_senba/3_senba_04.jpg" class="w3-round w3-image " >
      <p>從旁邊可以閱讀圖片資訊</p>
     </div>
   </div>
