@@ -1,7 +1,8 @@
 /*General*/
 body * {
 /*    font-family: "Montserrat", sans-serif;*/
-    font-family: 'Comfortaa', cursive;
+    
+    font-family: 'Noto Sans Traditional Chinese', cursive;
   }
   
   html,
@@ -15,6 +16,7 @@ body * {
   h2,
   h3,
   h4 {
+    font-family: 'Noto Sans Traditional Chinese', cursive;
     font-weight: bold;
 
   }
